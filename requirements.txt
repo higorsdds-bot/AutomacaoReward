@@ -1,0 +1,4 @@
+# Nenhuma biblioteca externa necessária!
+# O projeto utiliza 100% Python Standard Library (tkinter, socket, urllib, subprocess, json)
+# comunicando diretamente com o Microsoft Edge nativo do Windows via Chrome DevTools Protocol (CDP).
+
